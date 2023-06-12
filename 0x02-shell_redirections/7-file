@@ -1,2 +1,2 @@
 #!/bin/bash
-xargs -d'\n' touch -- << '.' \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+echo "Best School" > '\*\\''"Best School"\''\\*$\?\*\*\*\*\*:)'
