@@ -1,2 +1,2 @@
 #!/bin/bash
-BETTY= Name="Best" Value="School"
+BEST="School"
